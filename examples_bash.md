@@ -1,6 +1,7 @@
-## bash commands
+# EDUARDO BRICEÑO DATA 3B
+## *****Bash commands*****
 
-### are linux commands that we use frequently in lab-made exercises
+### Are linux commands that we use frequently
 
 cd . // enter the directories
 
