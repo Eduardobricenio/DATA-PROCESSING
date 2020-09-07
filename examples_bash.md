@@ -47,9 +47,18 @@ You can use echo command with various options. Some useful options are mentioned
 ## Find Files in Linux, Using the Command Line
 Use find from the command line to locate a specific file by name or extension. The following example searches for *.err files in the /home/username/ directory and all sub-directories:
 
+## examples:
+
+### find -name "*.xls" -type f
+
 ### find . -name testfile.txt
 Find a file called testfile.txt in current and sub-directories.
 
+### find /home -iname 
+
 ### find . -type f -empty
 	Find an empty file within the current directory.
+	
+### find /tmp -type d -empty
+
 
